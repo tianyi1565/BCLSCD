@@ -20,3 +20,5 @@ The test model in our paper for the SECOND dataset are found [HERE](https://pan.
 ```javascript
 python test.py 
 ```
+
+![GitHub的吉祥物](https://github.githubassets.com/image/visual1.jpg)
