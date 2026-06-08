@@ -1,6 +1,8 @@
 # BCLSCD
 This is our Pytorch implementation for BCLSCD.
 
+![gainian](image/gainian.jpg)
+
 # Prerequisites
 
 * Linux or macOS
